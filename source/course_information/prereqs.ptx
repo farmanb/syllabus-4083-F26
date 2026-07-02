@@ -2,6 +2,55 @@
 <subsection xml:id="course_prerequisites" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Prerequisites</title>
   <p>
-    Prerequisites go here.
+    A grade of C or better in MATH 3073 (Previously MATH 307) or MATH 3113 (Previously MATH 311) is required to enroll in this course.
+  </p>
+  <p>
+    In particular, students are expected to have experience with the following topics.
+    <ul>
+      <li>
+	<p>
+	  propositional logic, such as
+	  <ul>
+	    <li>conjunction,</li>
+	    <li>disjunction</li>
+	    <li>negation,</li>
+	    <li>conditionals, biconditionals and logical equivalence,</li>
+	    <li>contraposition,</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>
+	  first-order logic, such as
+	  <ul>
+	    <li>predicates,</li>
+	    <li>universal quantification,</li>
+	    <li>existential quantification</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>
+	  basic set theory, such as
+	  <ul>
+	    <li>(indexed) union,</li>
+	    <li>(indexed) intersection,</li>
+	    <li>complement,</li>
+	    <li>equivalence relations and classes</li>
+	  </ul>
+	</p>
+      </li>
+      <li>
+	<p>
+	  basic proof techniques, such as
+	  <ul>
+	    <li>direct proof,</li>
+	    <li>proof by contraposition,</li>
+	    <li>proof by contradiction,</li>
+	    <li>proof by induction,</li>
+	  </ul>
+	</p>
+      </li>
+    </ul>
   </p>
 </subsection>

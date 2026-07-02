@@ -2,6 +2,32 @@
 <subsection xml:id="course_topics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
   <p>
-    Course topics go here.
+    This course can be divided into three parts.
+    <dl>
+      <li>
+	<title>Rings</title>
+	<p>
+	  We first explore the basic properties and arithmetic of the integers, including modular arithmetic.
+	  We generalize these properties to other sets equipped with operations that <q>behave like</q> addition and multiplication and study <q>structure preserving</q> functions and constructions with rings.
+	  Depending on time and interest, we may also explore some classes of <q>nice</q> rings (integral domains, universal factorization domains, principal ideal domains, fields, polynomial rings).
+	</p>
+      </li>
+      <li>
+	<title>Modules</title>
+	<p>
+	  We generalize the familiar notion of a <term>vector space</term> from linear algebra by allowing our scalars to come from a ring rather than a field.
+	  We study the analogous <q>structure preserving</q> functions and constructions for these objects.
+	</p>
+      </li>
+      <li>
+	<title>Groups</title>
+	<p>
+	  We consider the structures that arise from a set equipped with a single operation.
+	  As with rings and modules, we study the analogous <q>structure preserving</q> functions and constructions.
+	</p>
+      </li>
+    </dl>
+    In the first, we cover the definitions and examples of groups, subgroups, quotient groups, homomorphisms, and important theorems about the structure of certain groups.
+    In the second, we encounter basic definitions and examples of rings, subrings, ideals, quotients of rings, domains, fields, homomorphisms, and other topics as time permits.
   </p>
 </subsection>
