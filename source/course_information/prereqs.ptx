@@ -36,6 +36,18 @@
 	    <li>(indexed) union,</li>
 	    <li>(indexed) intersection,</li>
 	    <li>complement,</li>
+	    <li>
+	      <p>
+		functions
+		<ul>
+		  <li>domain and codomain,</li>
+		  <li>composition,</li>
+		  <li>injectivity,</li>
+		  <li>surjectivity,</li>
+		  <li>bijectivity</li>
+		</ul>
+	      </p>
+	    </li>
 	    <li>equivalence relations and classes</li>
 	  </ul>
 	</p>
