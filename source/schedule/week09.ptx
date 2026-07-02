@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-09">
-  <title>May 4 <ndash/> May 10</title>
+  <title>November 2 <ndash/> November 8</title>
   <p>
     <dl>
       <li>
-        <title>May 04</title>
-        <p>
-          Material
-        </p>
+        <title>November 02</title>
+        <p>8.1 Vector Spaces and Ideals, Revisited</p>
+        <p>8.2 The Category of <m>R</m>-Modules</p>
       </li>
       <li>
-        <title>May 06</title>
-        <p>
-          Material
-        </p>
+        <title>November 04</title>
+        <p>8.3 Submodules, Direct Sums</p>
+        <p>8.4 Canonical Decomposition and Quotients</p>
+      </li>
+      <li>
+        <title>November 06</title>
+        <p>8.5 Isomorphism Theorems</p>
       </li>
     </dl>
   </p>

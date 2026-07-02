@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-10">
-  <title>May 11 <ndash/> May 17</title>
+  <title>November 9 <ndash/> November 15</title>
   <p>
     <dl>
       <li>
-        <title>May 11</title>
-        <p>
-          Material
-        </p>
+        <title>November 09</title>
+        <p>11.1 Groups and their Category</p>
       </li>
       <li>
-        <title>May 13</title>
-        <p>
-          Material
-        </p>
+        <title>November 11</title>
+        <p>11.2 Why Groups? Actions of a Group</p>
+      </li>
+      <li>
+        <title>November 13</title>
+        <p>11.3 Cyclic, Dihedral, Symmetric, Free Groups</p>
       </li>
     </dl>
   </p>

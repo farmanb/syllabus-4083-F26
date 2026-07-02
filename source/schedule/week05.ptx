@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-05">
-  <title>April 6 <ndash/> April 12</title>
+  <title>October 5 <ndash/> October 11</title>
   <p>
     <dl>
       <li>
-        <title>April 08</title>
+        <title>October 05</title>
         <p>
-          Material
-        </p>
+	  3.3 Special Types of Rings
+	</p>
+      </li>
+      <li>
+        <title>October 07</title>
+        <p>
+	  4.1 Cartesian Products
+	</p>
+        <p>
+	  4.2 Subrings
+	</p>
+      </li>
+      <li>
+        <title>October 09</title>
+        <p>
+	  4.3 Ring Homomorphisms
+	</p>
       </li>
     </dl>
   </p>

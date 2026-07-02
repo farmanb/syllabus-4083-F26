@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-02">
-  <title>March 16 <ndash/> March 22</title>
+  <title>September 14 <ndash/> September 20</title>
   <p>
     <dl>
       <li>
-        <title>March 16</title>
-        <p>
-          Material
-        </p>
+        <title>September 14</title>
+        <p>1.4 The Fundamental Theorem of Arithmetic</p>
       </li>
       <li>
-        <title>March 18</title>
-        <p>
-          Material
-        </p>
+        <title>September 16</title>
+        <p>2.1 Equivalence Relations and Quotients</p>
+	<p>2.2 Congruence mod <m>n</m></p>
+      </li>
+      <li>
+        <title>September 18</title>
+        <p>2.3 Algebra in <m>\mathbb{Z}/n\mathbb{Z}</m></p>
       </li>
     </dl>
   </p>

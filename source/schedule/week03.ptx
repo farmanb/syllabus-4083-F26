@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-03">
-  <title>March 23 <ndash/> March 29</title>
+  <title>September 21 <ndash/> September 27</title>
   <p>
     <dl>
       <li>
-        <title>March 23</title>
-        <p>
-          Material
-        </p>
+        <title>September 21</title>
+        <p>2.4 Properties of the Operations <m>+</m> and <m>\cdot</m></p>
       </li>
       <li>
-        <title>March 25</title>
-        <p>
-          Material
-        </p>
+        <title>September 23</title>
+        <p>2.5 Fermat's Little Theorem and the RSA Encryption System</p>
+      </li>
+      <li>
+        <title>September 25</title>
+	<p>
+	  Review for Exam 1
+	</p>
       </li>
     </dl>
   </p>

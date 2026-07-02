@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-04">
-  <title>March 30 <ndash/> April 5</title>
+  <title>September 28 <ndash/> October 4</title>
   <p>
     <dl>
       <li>
-        <title>March 30</title>
+        <title>September 28</title>
         <p>
-          Material
+	  <alert>Exam 1</alert> (Chapters 1<ndash/>2).
+	</p>
+      </li>
+      <li>
+        <title>September 30</title>
+        <p>
+	  3.1 Definition and Examples
         </p>
       </li>
       <li>
-        <title>April 01</title>
+        <title>October 02</title>
         <p>
-          Material
-        </p>
+	  3.2 Basic Properties
+	</p>
       </li>
     </dl>
   </p>
