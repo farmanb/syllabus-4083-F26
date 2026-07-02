@@ -1,8 +1,8 @@
-<!ENTITY courseno "COURSE#">
-<!ENTITY sectionno "SECTION#">
-<!ENTITY term "TERM">
-<!ENTITY year "YEAR">
-<!ENTITY withdraw "Day of Week, Month, Day">
+<!ENTITY courseno "4083/5083">
+<!ENTITY sectionno "001">
+<!ENTITY term "Fall">
+<!ENTITY year "2026">
+<!ENTITY withdraw "Friday, October 30">
 <!ENTITY honorific "<abbr>Dr.</abbr>">
 <!ENTITY firstname "Blake">
 <!ENTITY lastname "Farman">
