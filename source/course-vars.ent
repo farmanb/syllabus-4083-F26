@@ -12,9 +12,10 @@
 <!ENTITY email "bfarman@latech.edu">
 <!ENTITY website "https://blakefarman.phd">
 <!ENTITY office "Nethken 235">
-<!ENTITY book "Book Title">
-<!ENTITY edition "Nth">
-<!ENTITY ISBN "#############">
-<!ENTITY exam1 "Day of Week, Month Day">
-<!ENTITY exam2 "Day of Week, Month Day">
-<!ENTITY finalexam "Day of Week, Month Day">
+<!ENTITY book "Algebra: Notes from the Underground">
+<!ENTITY author "Paolo Aluffi">
+<!ENTITY edition "First">
+<!ENTITY ISBN "978-1-108-95823-3">
+<!ENTITY exam1 "Wednesday, September 30">
+<!ENTITY exam2 "Friday, October 30">
+<!ENTITY finalexam "Wednesday, November 18">
