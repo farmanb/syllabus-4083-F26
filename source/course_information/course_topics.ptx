@@ -8,8 +8,8 @@
 	<title>Rings</title>
 	<p>
 	  We first explore the basic properties and arithmetic of the integers, including modular arithmetic.
-	  We generalize these properties to other sets equipped with operations that <q>behave like</q> addition and multiplication and study <q>structure preserving</q> functions and constructions with rings.
-	  Depending on time and interest, we may also explore some classes of <q>nice</q> rings (integral domains, unique factorization domains, principal ideal domains, fields, polynomial rings).
+	  We generalize these properties to other sets equipped with operations that <q>behave like</q> addition and multiplication, then study <q>structure preserving</q> functions and constructions with rings.
+	  Depending on time and interest, we may also explore some classes of <q>nice</q> rings (<eg/> integral domains, unique factorization domains, principal ideal domains, polynomial rings).
 	</p>
       </li>
       <li>
