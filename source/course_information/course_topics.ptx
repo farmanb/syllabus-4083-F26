@@ -9,7 +9,7 @@
 	<p>
 	  We first explore the basic properties and arithmetic of the integers, including modular arithmetic.
 	  We generalize these properties to other sets equipped with operations that <q>behave like</q> addition and multiplication and study <q>structure preserving</q> functions and constructions with rings.
-	  Depending on time and interest, we may also explore some classes of <q>nice</q> rings (integral domains, universal factorization domains, principal ideal domains, fields, polynomial rings).
+	  Depending on time and interest, we may also explore some classes of <q>nice</q> rings (integral domains, unique factorization domains, principal ideal domains, fields, polynomial rings).
 	</p>
       </li>
       <li>
@@ -27,7 +27,5 @@
 	</p>
       </li>
     </dl>
-    In the first, we cover the definitions and examples of groups, subgroups, quotient groups, homomorphisms, and important theorems about the structure of certain groups.
-    In the second, we encounter basic definitions and examples of rings, subrings, ideals, quotients of rings, domains, fields, homomorphisms, and other topics as time permits.
   </p>
 </subsection>
