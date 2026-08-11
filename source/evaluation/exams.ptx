@@ -6,7 +6,7 @@
 <subsection xml:id="exams" component="exams">
   <title>Exams</title>
   <p>
-    There will be two in-class exams and a cumulative final exam.
+    There will be one in-class midterm exam and a cumulative final exam.
     The exams are scheduled as follows:
   </p>
 
@@ -17,12 +17,8 @@
 	<cell>Date</cell>
       </row>
       <row>
-	<cell>Exam 1</cell>
-	<cell>&exam1;, &year;</cell>
-      </row>
-      <row>
-	<cell>Exam 2</cell>
-	<cell>&exam2;, &year;</cell>
+	<cell>Midterm Exam</cell>
+	<cell>&midterm;, &year;</cell>
       </row>
       <row>
 	<cell>Final Exam</cell>

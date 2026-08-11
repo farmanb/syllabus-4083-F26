@@ -3,10 +3,9 @@
   <title>Homework</title>
   <p>
     Homework assignments are a critical component of the course.
-    They are designed to reinforce the concepts covered in lectures and provide hands-on experience.
-    Assignments will include a mix of logical proofs, programming tasks, and conceptual exercises.
-    Solutions must be submitted on time and will be graded for clarity and correctness.
-    Collaboration is encouraged, but each student must submit their own work.
+    They are designed to reinforce the concepts covered in lectures and to give you practice writing careful mathematical arguments.
+    Homework is neither collected nor graded directly; instead, the quizzes are drawn from the assigned problems.
+    Collaboration is encouraged, but you should be able to reproduce every solution on your own.
   </p>
 
   <p component="graduate">
