@@ -18,7 +18,7 @@
     <!-- quizzes: Course has quizzes -->
     <!-- BARC: Course has university tutoring resources -->
     <!-- mathclub: Course has club tutoring resources -->
-    <version include="graduate exams engagement homework quizzes"/>
+    <version include="exams engagement homework quizzes"/>
   </source>
   
   <latex print="no" sides="one" font-size="10" draft="no">
