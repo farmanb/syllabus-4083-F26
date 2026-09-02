@@ -7,13 +7,11 @@
     <tableofcontents level="2" />
   </common>
 
-  <!-- directories are relative to the main source PreTeXt file -->
   <source>
-    <directories external="../assets" generated="../generated-assets"/>
     <!-- Version flags -->
     <!-- graduate: Cross listed as a 5XXX or 6XXX course. -->
     <!-- exams: Course has exams. -->
-    <!-- engagement: Course has graded engagement/participation. -->
+    <!-- engagement: Course has an engagement/participation statement. -->
     <!-- homework: Course has homework -->
     <!-- quizzes: Course has quizzes -->
     <!-- BARC: Course has university tutoring resources -->
@@ -28,6 +26,7 @@
   </latex>
 
   <html favicon="simple">
+    <brandlogo url="https://latech.edu" source="images/logo.png"/>
     <!-- Vintage Tech Blue: #69B3E7 -->
     <!-- Tech Blue: #69B3E7 -->
     <!-- Tech Red: #CB333B -->
