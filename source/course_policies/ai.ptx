@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="ai_policy">
+  <title>Use of Artificial Intelligence</title>
+  <p>
+    Generative artificial intelligence (<init>AI</init>) tools (<eg/> ChatGPT, Claude, Gemini, Copilot) can be a useful study aid, but they cannot do the work of learning for you.
+    The goal of this course is to develop <em>your</em> ability to read, understand, and write mathematical proofs, and that ability is built only by struggling with problems yourself.
+  </p>
+
+  <p>
+    <dl>
+      <li>
+	<title>Quizzes and Exams</title>
+	<p>
+	  The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams.
+	  Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>.
+	</p>
+      </li>
+      <li>
+	<title>Homework and Studying</title>
+	<p>
+	  Homework is not collected, so you are free to use <init>AI</init> tools while studying, for example to ask for an alternative explanation of a definition or to check your understanding of an example.
+	  Be aware, however, that <init>AI</init> tools frequently produce arguments that are subtly (or badly) wrong, and that quizzes are drawn from the assigned homework problems.
+	  If you rely on <init>AI</init> to produce solutions rather than working them out yourself, you should expect that to be reflected in your quiz and exam scores.
+	</p>
+      </li>
+    </dl>
+  </p>
+
+  <p>
+    If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it.
+  </p>
+</subsection>
