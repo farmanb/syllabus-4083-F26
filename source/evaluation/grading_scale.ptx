@@ -6,7 +6,7 @@
     Letter grades will be assigned based on the scale below.
   </p>
 
-  <assemblage>
+  <assemblage xml:id="grading_scale_table">
     <title>Grading Scale</title>
     <tabular halign="center">
       <row header="yes" bottom="minor" >

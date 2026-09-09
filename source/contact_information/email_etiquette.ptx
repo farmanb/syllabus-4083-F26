@@ -48,7 +48,7 @@
     </dl>
     For your convenience, included below is an example email.
   </p>
-  <assemblage>
+  <assemblage xml:id="sample_email">
     <title>Sample Email</title>
     <p>
       Subject: Meeting - Math &courseno; <ndash/> &sectionno;

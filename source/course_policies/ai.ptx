@@ -34,14 +34,14 @@
   <!--   If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it. -->
   <!-- </p> -->
   
-  <subsubsection>
+  <subsubsection xml:id="ai_quizzes_exams">
     <title>Quizzes and Exams</title>
       <p>
 	The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams.
 	Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>.
       </p>
   </subsubsection>
-  <subsubsection>
+  <subsubsection xml:id="ai_homework_studying">
     <title>Homework and Studying</title>
     <p>
       Homework is where you learn to write proofs, and the same standard applies to <init>AI</init> that applies to working with classmates: whatever help you use, you must be able to reproduce every solution on your own.
@@ -58,7 +58,7 @@
       Since the quizzes are drawn from exactly those problems, this usage is the one most likely to affect your grade.
     </p>
 
-    <warning>
+    <warning xml:id="ai_warning">
       <p>
 	Reading and writing proofs is an art form that improves only with sustained practice.
 	You are in this course precisely because that skill is still developing, and outsourcing the writing to <init>AI</init> removes the very practice that would develop it.

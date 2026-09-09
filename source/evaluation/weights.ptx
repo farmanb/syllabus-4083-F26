@@ -5,7 +5,7 @@
     Grades will be calculated using the weights below.
   </p>
 
-  <assemblage>
+  <assemblage xml:id="evaluation_criteria">
     <title>Evaluation Criteria</title>
     <tabular>
       <row header="yes" bottom="minor" >

@@ -14,7 +14,7 @@
   <xi:include href="week11.ptx"/>
 
   <conclusion>
-    <warning>
+    <warning xml:id="schedule_warning">
       <p>
         The instructor reserves the right to modify the schedule as needed.
       </p>

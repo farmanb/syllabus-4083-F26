@@ -176,7 +176,7 @@ def generate_main_ptx(week_files):
 
     lines.append('')
     lines.append('  <conclusion>')
-    lines.append('    <warning>')
+    lines.append('    <warning xml:id="schedule_warning">')
     lines.append('      <p>')
     lines.append('        The instructor reserves the right to modify the schedule as needed.')
     lines.append('      </p>')

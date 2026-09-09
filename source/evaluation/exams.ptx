@@ -11,7 +11,7 @@
     The exams are scheduled as follows:
   </p>
 
-  <assemblage>
+  <assemblage xml:id="exam_schedule">
     <tabular halign="center">
       <row header="yes" bottom="minor" >
 	<cell>Exam</cell>
@@ -33,7 +33,7 @@
     The policy for a missed exam is described in <xref ref="make-up_policy"/>.
   </p>
 
-  <warning>
+  <warning xml:id="exam_warning">
     <p>
       <ul>
 	<li>
