@@ -12,10 +12,10 @@
 	  propositional logic, such as
 	  <ul>
 	    <li>conjunction,</li>
-	    <li>disjunction</li>
+	    <li>disjunction,</li>
 	    <li>negation,</li>
 	    <li>conditionals, biconditionals and logical equivalence,</li>
-	    <li>contraposition,</li>
+	    <li>contraposition</li>
 	  </ul>
 	</p>
       </li>
@@ -59,7 +59,7 @@
 	    <li>direct proof,</li>
 	    <li>proof by contraposition,</li>
 	    <li>proof by contradiction,</li>
-	    <li>proof by induction,</li>
+	    <li>proof by induction</li>
 	  </ul>
 	</p>
       </li>
