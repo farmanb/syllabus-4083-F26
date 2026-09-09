@@ -1,32 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="ai_policy">
   <title>Use of Artificial Intelligence</title>
-  <p>
+  <introduction>
+    <p>
     Generative artificial intelligence (<init>AI</init>) tools (<eg/> ChatGPT, Claude, Gemini, Copilot) can be a useful study aid, but they cannot do the work of learning for you.
     The goal of this course is to develop <em>your</em> ability to read, understand, and write mathematical proofs, and that ability is built only by struggling with problems yourself.
-  </p>
+    </p>
+  </introduction>
+  
+  <!-- <p> -->
+  <!--   <dl> -->
+  <!--     <li> -->
+  <!-- 	<title>Quizzes and Exams</title> -->
+  <!-- 	<p> -->
+  <!-- 	  The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams. -->
+  <!-- 	  Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>. -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--     <li> -->
+  <!-- 	<title>Homework and Studying</title> -->
+  <!-- 	<p> -->
+  <!-- 	  Homework is where you learn to write proofs, and the same standard applies to <init>AI</init> that applies to working with classmates: whatever help you use, you must be able to reproduce every solution on your own. -->
+  <!-- 	  Within that standard, <init>AI</init> tools are permitted. -->
+  <!-- 	  Productive uses include asking for a different explanation of a definition or theorem, generating extra practice problems, or asking it to find the gaps in a proof you have already written. -->
+  <!-- 	  The one use that will hurt you is asking it to write the proof of an assigned exercise before you have made a serious attempt yourself, since the quizzes are drawn from exactly those problems. -->
+  <!-- 	  Bear in mind that <init>AI</init> tools produce confidently wrong proofs often enough that you must be able to check their work, and you can only do that by learning the material. -->
+  <!-- 	</p> -->
+  <!--     </li> -->
+  <!--   </dl> -->
+  <!-- </p> -->
 
-  <p>
-    <dl>
-      <li>
-	<title>Quizzes and Exams</title>
-	<p>
-	  The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams.
-	  Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>.
-	</p>
-      </li>
-      <li>
-	<title>Homework and Studying</title>
-	<p>
-	  Homework is not collected, so you are free to use <init>AI</init> tools while studying, for example to ask for an alternative explanation of a definition or to check your understanding of an example.
-	  Be aware, however, that <init>AI</init> tools frequently produce arguments that are subtly (or badly) wrong, and that quizzes are drawn from the assigned homework problems.
-	  If you rely on <init>AI</init> to produce solutions rather than working them out yourself, you should expect that to be reflected in your quiz and exam scores.
-	</p>
-      </li>
-    </dl>
-  </p>
+  <!-- <p> -->
+  <!--   If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it. -->
+  <!-- </p> -->
+  
+  <subsubsection>
+    <title>Quizzes and Exams</title>
+      <p>
+	The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams.
+	Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>.
+      </p>
+  </subsubsection>
+  <subsubsection>
+    <title>Homework and Studying</title>
+    <p>
+      Homework is where you learn to write proofs, and the same standard applies to <init>AI</init> that applies to working with classmates: whatever help you use, you must be able to reproduce every solution on your own.
+      Within that standard, <init>AI</init> tools are permitted.
+      Productive uses include
+      <ul>
+	<li>
+	  asking for a different explanation of a definition or theorem,
+	</li>
+	<li>generating extra practice problems,</li>
+	<li>asking it to find the gaps in a proof you have already written.</li>
+      </ul>
+      However, asking it to write the proof of an assigned exercise before you have made a serious attempt yourself is generally <alert>not productive</alert>.
+      Since the quizzes are drawn from exactly those problems, this usage is the one most likely to affect your grade.
+    </p>
 
-  <p>
-    If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it.
-  </p>
+    <warning>
+      <p>
+	Reading and writing proofs is an art form that improves only with sustained practice.
+	You are in this course precisely because that skill is still developing, and outsourcing the writing to <init>AI</init> removes the very practice that would develop it.
+      </p>
+      <p>
+	The most critical component of that skill is judging whether an argument is logically valid, and while you are learning you <alert>will</alert> sometimes get that judgment wrong.
+	<init>AI</init> tools frequently produce confidently wrong proofs.
+	Until you can reliably discern between valid and invalid proof, you <alert>will</alert> struggle to understand whether the tool has helped you or misled you.
+	Understanding the methods of proof yourself is therefore a prerequisite for using these tools effectively, not something they can replace.
+      </p>
+    </warning>
+    <!-- <p> -->
+    <!--   If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it. -->
+    <!-- </p> -->
+  </subsubsection>
 </subsection>
