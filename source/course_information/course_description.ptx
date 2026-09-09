@@ -3,6 +3,7 @@
   <title>Course Description</title>
   <p>
     This course will utilize the logical foundation and proof techniques developed in prerequisite courses to explore the basic constructions in modern algebra: rings, modules, and groups.
+    Following our textbook, we treat rings first, since their arithmetic is closest to that of the familiar integers, and take up groups later in the term.
     The primary goal of this course is to gain familiarity with these basic algebraic structures and how they interact with one another (actions, homomorphisms, <etc/>).
     An equally important goal of this course is to improve students' ability to read and write mathematical proofs.
   </p>
