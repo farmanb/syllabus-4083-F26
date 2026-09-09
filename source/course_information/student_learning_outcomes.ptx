@@ -2,7 +2,13 @@
 <subsection xml:id="student_learning_outcomes" label="student_learning_outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Learning Outcomes</title>
   <p>
-    The primary goal of this course is to gain familiarity with basic algebraic structures (rings, modules, and groups) and how they interact with one another (actions, homomorphisms, <etc/>).
-    An equally important goal of this course is to improve students' ability to read and write mathematical proofs.
+    Upon successful completion of this course, students will be able to
+    <ul>
+      <li>state the definitions and fundamental theorems concerning rings, modules, and groups,</li>
+      <li>verify whether a given set with operations forms a ring, module, or group, and whether a given map is a homomorphism,</li>
+      <li>compute in concrete examples, including modular arithmetic, polynomial rings, and cyclic groups,</li>
+      <li>construct examples and counterexamples distinguishing algebraic structures and their properties,</li>
+      <li>write clear, logically correct proofs of statements in elementary abstract algebra, and identify gaps or errors in a proposed proof.</li>
+    </ul>
   </p>
 </subsection>
