@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="ai_policy">
+<subsection xml:id="ai_policy" label="ai_policy">
   <title>Use of Artificial Intelligence</title>
   <introduction>
     <p>
@@ -34,14 +34,14 @@
   <!--   If you are ever unsure whether a particular use of <init>AI</init> is appropriate, ask me <alert>before</alert> using it. -->
   <!-- </p> -->
   
-  <subsubsection xml:id="ai_quizzes_exams">
+  <subsubsection xml:id="ai_quizzes_exams" label="ai_quizzes_exams">
     <title>Quizzes and Exams</title>
       <p>
 	The use of <init>AI</init> tools, or of any electronic device that can access them, is <alert>prohibited</alert> during all quizzes and exams.
 	Any such use will be treated as a case of academic dishonesty under the <xref ref="academic_honor_code" text="title"/>.
       </p>
   </subsubsection>
-  <subsubsection xml:id="ai_homework_studying">
+  <subsubsection xml:id="ai_homework_studying" label="ai_homework_studying">
     <title>Homework and Studying</title>
     <p>
       Homework is where you learn to write proofs, and the same standard applies to <init>AI</init> that applies to working with classmates: whatever help you use, you must be able to reproduce every solution on your own.

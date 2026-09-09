@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="course_description" xmlns:xi="http://www.w3.org/2001/XInclude">
+<subsection xml:id="course_description" label="course_description" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
   <p>
     This course will utilize the logical foundation and proof techniques developed in pre-requisite courses to explore the basic constructions in modern algebra: rings, modules, and groups.

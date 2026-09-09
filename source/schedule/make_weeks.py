@@ -141,7 +141,7 @@ def generate_week_xml(week_number: int, week_start: date, week_end: date, meetin
 
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append(f'<subsection xml:id="week-{week_id}">')
+    lines.append(f'<subsection xml:id="week-{week_id}" label="week-{week_id}">')
     lines.append(f'  <title>{start_str} <ndash/> {end_str}</title>')
     lines.append('  <p>')
     lines.append('    <dl>')
@@ -168,7 +168,7 @@ def generate_main_ptx(week_files):
     """
     lines = []
     lines.append('<?xml version="1.0" encoding="utf-8"?>')
-    lines.append('<section xml:id="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">')
+    lines.append('<section xml:id="schedule" label="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">')
     lines.append('  <title>Schedule</title>')
 
     for wf in week_files:

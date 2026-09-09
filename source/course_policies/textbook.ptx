@@ -3,7 +3,7 @@
   <!ENTITY % coursevars SYSTEM "../course-vars.ent">
   %coursevars;
 ]>
-<subsection xml:id="textbook">
+<subsection xml:id="textbook" label="textbook">
   <title>Textbook</title>
   <assemblage xml:id="required_textbook">
     <title>Required Textbook</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="course_prerequisites" xmlns:xi="http://www.w3.org/2001/XInclude">
+<subsection xml:id="course_prerequisites" label="course_prerequisites" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Prerequisites</title>
   <p>
     A grade of C or better in MATH 3073 (Previously MATH 307) or MATH 3113 (Previously MATH 311) is required to enroll in this course.

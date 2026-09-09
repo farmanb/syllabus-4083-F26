@@ -3,7 +3,7 @@
 <!ENTITY % coursevars SYSTEM "../course-vars.ent">
 %coursevars;
 ]>
-<subsection xml:id="exams" component="exams">
+<subsection xml:id="exams" label="exams" component="exams">
   <title>Exams</title>
   <p>
     There will be one in-class midterm exam and a cumulative final exam.

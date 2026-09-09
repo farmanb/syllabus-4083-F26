@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="attendance_policy">
+<subsection xml:id="attendance_policy" label="attendance_policy">
   <title>Attendance Policy</title>
   <p>
     Per <url href="https://www.latech.edu/administration/policies/p-2206/" >University Policy 2206</url>:

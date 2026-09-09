@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="schedule" label="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Schedule</title>
   <xi:include href="week01.ptx"/>
   <xi:include href="week02.ptx"/>
