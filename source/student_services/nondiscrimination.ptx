@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="non-discrimination">
-  <title>Non-Discrimination</title>
+  <title>Title IX and Discrimination Concerns.</title>
+  <!-- <title>Non-Discrimination</title> -->
+  <!-- <p> -->
+  <!--   Louisiana Tech University is committed to the principle of providing the opportunity for learning and development of all qualified citizens without regard to race, color, national origin, religion, age, sex, sexual orientation, marital status, or disability. -->
+  <!--   Persons with concerns may contact the Louisiana Tech Director of Title IX Compliance: -->
+  <!-- </p> -->
   <p>
-    Louisiana Tech University is committed to the principle of providing the opportunity for learning and development of all qualified citizens without regard to race, color, national origin, religion, age, sex, sexual orientation, marital status, or disability.
-    Persons with concerns may contact the Louisiana Tech Director of Title IX Compliance:
+    Louisiana Tech University adheres to the equal opportunity provisions of federal and civil rights laws, and does not discriminate on the basis of race, color, national origin, religion, age, sex, sexual orientation, marital status, or disability.
   </p>
   
   <assemblage>
+    <title>Director of Title IX Compliance, President’s Office</title>
     <p>
       <dl>
 	<li>
 	  <title/>
-	  <!-- <title>Director of Title IX Compliance, President’s Office</title> -->
 	  <p>Mortissa D. Harvey</p>
 	</li>
 	<li>
@@ -30,18 +34,12 @@
     </p>
   </assemblage>
 
-  <p>
-    Section 504 is a federal law designed to protect the rights of individuals with disabilities in programs and activities that receive Federal financial assistance from the U.S. Department of Education.
-    Persons with concerns may contact the Section 504 Coordinator:
-  </p>
-
   <assemblage>
-
+    <title>Section 504 Coordinator</title>
     <p>
       <dl>
 	<li>
 	  <title/>
-	  <!-- <title>Section 504 Coordinator</title> -->
 	  <p>Annie Jantz</p>
 	</li>
 	<li>
@@ -60,16 +58,15 @@
     </p>
   </assemblage>
 
-  <p>
-    Persons with concerns may also contact the Equal Employment Opportunity (<init>EEO</init>) Officer:
-  </p>
-
   <assemblage>
+    <title>EEO Officer</title>
     <p>
       <dl>
 	<li>
 	  <title/>
-	  <p>Sheila Trammel</p>
+	  <p>
+	    Sheila Trammel
+	  </p>
 	</li>
 	<li>
 	  <title>Phone</title>
