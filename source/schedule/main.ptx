@@ -1,23 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="schedule" label="schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="schedule" label="schedule">
   <title>Schedule</title>
-  <xi:include href="week01.ptx"/>
-  <xi:include href="week02.ptx"/>
-  <xi:include href="week03.ptx"/>
-  <xi:include href="week04.ptx"/>
-  <xi:include href="week05.ptx"/>
-  <xi:include href="week06.ptx"/>
-  <xi:include href="week07.ptx"/>
-  <xi:include href="week08.ptx"/>
-  <xi:include href="week09.ptx"/>
-  <xi:include href="week10.ptx"/>
-  <xi:include href="week11.ptx"/>
-
-  <conclusion>
-    <warning xml:id="schedule_warning">
-      <p>
-        The instructor reserves the right to modify the schedule as needed.
-      </p>
-    </warning>
-  </conclusion>
+  <table xml:id="schedule-table">
+    <title>Weekly Schedule (the instructor reserves the right to modify the schedule as needed)</title>
+    <tabular width="100%" halign="left" valign="top" top="minor">
+      <col width="17%"/>
+      <col width="38%"/>
+      <col width="45%"/>
+      <row header="yes" bottom="medium">
+        <cell>Date</cell>
+        <cell>Topic</cell>
+        <cell>Homework</cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Sep 11</cell>
+        <cell><p>1.1 The Well-Ordering Principle and Induction</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>1.2, <section-mark/><nbsp/>1.3; Exercises 1.2, 1.3</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Sep 14</cell>
+        <cell>
+          <line>1.2 Division with Remainder in <m>\mathbb{Z}</m></line>
+          <line>1.3 Greatest Common Divisors</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>1.4; Exercises 1.4, 1.8, 1.10</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Sep 16</cell>
+        <cell><p>1.4 The Fundamental Theorem of Arithmetic</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>2.1, <section-mark/><nbsp/>2.2 (and Appendix A.8 Relations; Equivalence Relations and Quotient Sets, if necessary); Exercises 1.17, 1.21, 1.23, 1.25</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Sep 18</cell>
+        <cell>
+          <line>2.1 Equivalence Relations and Quotients</line>
+          <line>2.2 Congruence mod <m>n</m></line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>2.3, <section-mark/><nbsp/>2.4; Exercises 2.1, 2.2, 2.3</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Sep 21</cell>
+        <cell>
+          <line>2.3 Algebra in <m>\mathbb{Z}/n\mathbb{Z}</m></line>
+          <line>2.4 Properties of the Operations <m>+</m> and <m>\cdot</m></line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>3.1; Exercises 2.4, 2.9, 2.10, 2.11</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Sep 23</cell>
+        <cell><p>3.1 Definition and Examples</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>3.2, <section-mark/><nbsp/>3.3; Exercises 3.5, 3.6, 3.7, 3.8</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Sep 25</cell>
+        <cell>
+          <line>3.2 Basic Properties</line>
+          <line>3.3 Special Types of Rings</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>4.1, <section-mark/><nbsp/>4.2; Exercises 3.12, 3.13, 3.14, 3.17, 3.20</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Sep 28</cell>
+        <cell>
+          <line>4.1 Cartesian Products</line>
+          <line>4.2 Subrings</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>4.3, <section-mark/><nbsp/>4.4; Exercises 4.2, 4.3, 4.4, 4.5</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Sep 30</cell>
+        <cell>
+          <line>4.3 Ring Homomorphisms</line>
+          <line>4.4 Isomorphisms of Rings</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>5.1, <section-mark/><nbsp/>5.2; Exercises 4.13, 4.14, 4.19</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Oct 2</cell>
+        <cell>
+          <line>5.1 Canonical Decomposition, I</line>
+          <line>5.2 Kernels and Ideals</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>5.3; Exercises 5.4, 5.5, 5.7, 5.9, 5.10, 5.12, 5.13, 5.14, 5.15, 5.16, 5.18</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Oct 5</cell>
+        <cell><p>5.3 Quotient Rings</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>5.4, <section-mark/><nbsp/>5.5; Exercise 5.20</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Oct 7</cell>
+        <cell>
+          <line>5.4 Canonical Decomposition, II</line>
+          <line>5.5 The First Isomorphism Theorem</line>
+        </cell>
+        <cell><p>Read <section-mark/><nbsp/>5.6, <section-mark/><nbsp/>5.7; Exercises 5.8, 5.23, 5.25, 5.26</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Oct 9</cell>
+        <cell>
+          <line>5.6 The Chinese Remainder Theorem</line>
+          <line>5.7 The Third Isomorphism Theorem</line>
+        </cell>
+        <cell><p>Exercises 5.33, 5.34, 5.36</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Oct 12</cell>
+        <cell><p>Review for the Midterm Exam</p></cell>
+        <cell></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Oct 14</cell>
+        <cell><p><alert>Midterm Exam</alert> (Chapters 1<ndash/>5).</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>8.1</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Oct 16</cell>
+        <cell><p>Exam Revisions</p></cell>
+        <cell></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Oct 19</cell>
+        <cell><p>8.1 Vector Spaces and Ideals, Revisited</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>8.2; Exercises 8.1, 8.2, 8.3</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Oct 21</cell>
+        <cell><p>8.2 The Category of <m>R</m>-Modules</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>8.3; Exercises 8.6, 8.10, 8.12</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Oct 23</cell>
+        <cell><p>8.3 Submodules, Direct Sums</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>8.4; Exercises 8.16, 8.17, 8.19</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Oct 26</cell>
+        <cell><p>8.4 Canonical Decomposition and Quotients</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>8.5; Exercises 8.15, 8.23, and prove Claim 8.38</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Oct 28</cell>
+        <cell><p>8.5 Isomorphism Theorems</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>10.1; Exercise 8.22</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Oct 30</cell>
+        <cell><p>10.1 The Category of Abelian Groups</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>10.2; Exercises 10.1, 10.6</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Nov 2</cell>
+        <cell><p>10.2 Cyclic Groups, and Orders of Elements</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>11.1; Exercise 10.7</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Nov 4</cell>
+        <cell><p>11.1 Groups and their Category</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>11.2; Exercises 11.1, 11.2, 11.3, 11.4, 11.7</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Nov 6</cell>
+        <cell><p>11.2 Why Groups? Actions of a Group</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>11.3; Exercise 11.14</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Nov 9</cell>
+        <cell><p>11.3 Cyclic, Dihedral, Symmetric, Free Groups</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>11.4; Exercises 11.28, 11.30, 11.33</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Wed, Nov 11</cell>
+        <cell><p>11.4 Canonical Decomposition, Normality, and Quotients</p></cell>
+        <cell><p>Read <section-mark/><nbsp/>11.5; Exercises 11.34, 11.36, 11.39</p></cell>
+      </row>
+      <row bottom="major">
+        <cell>Fri, Nov 13</cell>
+        <cell><p>11.5 Isomorphism Theorems</p></cell>
+        <cell><p>Exercise 11.40</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell>Mon, Nov 16</cell>
+        <cell><p>Review for the Final Exam</p></cell>
+        <cell></cell>
+      </row>
+      <row bottom="major">
+        <cell>Wed, Nov 18</cell>
+        <cell><p><alert>Final Exam</alert> (cumulative).</p></cell>
+        <cell></cell>
+      </row>
+    </tabular>
+  </table>
 </section>
