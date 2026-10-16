@@ -99,14 +99,14 @@ def parse_meeting_days(meeting_days_str: str):
 def build_schedule(start_date: date, end_date: date, meeting_days, no_class_dates):
     """
     Yield (week_number, week_start, week_end, [meeting_dates]) for each calendar
-    week (Mon–Sun) intersecting [start_date, end_date].
+    week (Mon–Fri) intersecting [start_date, end_date].
     """
     first_monday = start_date - timedelta(days=start_date.weekday())
     week_index = 0
 
     while True:
         week_start = first_monday + timedelta(weeks=week_index)
-        week_end = week_start + timedelta(days=6)
+        week_end = week_start + timedelta(days=4)  # Friday
 
         if week_start > end_date:
             break

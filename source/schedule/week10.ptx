@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-10" label="week-10">
-  <title>November 9 <ndash/> November 15</title>
+  <title>November 9 <ndash/> November 13</title>
   <p>
     <dl>
       <li>
         <title>November 09</title>
+        <p>11.3 Cyclic, Dihedral, Symmetric, Free Groups</p>
+        <p><em>Homework:</em> Read <section-mark/><nbsp/>11.4; Exercises 11.28, 11.30, 11.33</p>
+      </li>
+      <li>
+        <title>November 11</title>
         <p>11.4 Canonical Decomposition, Normality, and Quotients</p>
         <p><em>Homework:</em> Read <section-mark/><nbsp/>11.5; Exercises 11.34, 11.36, 11.39</p>
       </li>
       <li>
-        <title>November 11</title>
+        <title>November 13</title>
         <p>11.5 Isomorphism Theorems</p>
         <p><em>Homework:</em> Exercise 11.40</p>
-      </li>
-      <li>
-        <title>November 13</title>
-        <p>TBA</p>
       </li>
     </dl>
   </p>

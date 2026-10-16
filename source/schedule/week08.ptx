@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <subsection xml:id="week-08" label="week-08">
-  <title>October 26 <ndash/> November 1</title>
+  <title>October 26 <ndash/> October 30</title>
   <p>
     <dl>
       <li>
         <title>October 26</title>
+        <p>8.4 Canonical Decomposition and Quotients</p>
+        <p><em>Homework:</em> Read <section-mark/><nbsp/>8.5; Exercises 8.15, 8.23, and prove Claim 8.38</p>
+      </li>
+      <li>
+        <title>October 28</title>
         <p>8.5 Isomorphism Theorems</p>
         <p><em>Homework:</em> Read <section-mark/><nbsp/>10.1; Exercise 8.22</p>
       </li>
       <li>
-        <title>October 28</title>
+        <title>October 30</title>
         <p>10.1 The Category of Abelian Groups</p>
         <p><em>Homework:</em> Read <section-mark/><nbsp/>10.2; Exercises 10.1, 10.6</p>
-      </li>
-      <li>
-        <title>October 30</title>
-        <p>10.2 Cyclic Groups, and Orders of Elements</p>
-        <p><em>Homework:</em> Read <section-mark/><nbsp/>11.1; Exercise 10.7</p>
       </li>
     </dl>
   </p>
