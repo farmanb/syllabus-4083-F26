@@ -1,0 +1,385 @@
+#+TITLE: Intro to Abstract Algebra Outline
+#+AUTHOR: Blake Farman
+#+STARTUP: overview
+
+* Before Day 01
+** Homework :hw:
+- Read the syllabus
+- Read \sect 1.1 The Well-Ordering Principle and Induction
+
+* Day 01
+** \sect 1.1 The Well-Ordering Principle and Induction
+- Definition 1.1 Divisibility
+- Lemma 1.2 \(b \mid a \wedge a \neq 0 \implies |b| \leq |a|\)
+- Well-Ordering Principle
+- Prove Induction follows from the Well-Ordering Principle
+** Homework :hw:
+- Read \sect 1.2 Division with Remainder in \(\mathbb{Z}\)
+- Read \sect 1.3 Greatest Common Divisors
+- Exercises 1.2, 1.3
+
+* Day 02
+** \sect 1.2 Division with Remainder in \(\mathbb{Z}\)
+- Theorem 1.3 Division with remainder
+** \sect 1.3 Greatest Common Divisors
+- Definition 1.5 Greatest Common Divisor
+- Theorem 1.8
+  - \(d = \gcd(a,b) \implies \exists m, n \in \mathbb{Z}, d = am + bn\)
+  - \(a, b \neq 0 \implies \gcd(a,b)\) is the smallest positive linear combination of \(a\) and \(b\)
+- Corollary 1.9 \(\gcd(a,b) = 1 \iff \exists m, n \in \mathbb{Z}, 1 = am + bn\)
+- Definition 1.10 Relatively Prime
+- Corollary 1.11 \(a \mid bc \wedge \gcd(a,b) = 1 \implies a \mid c\)
+- Theorem 1.14 Euclidean Algorithm
+- Lemma 1.15 \(b \neq 0 \wedge a = bq + r \implies \gcd(a,b) = \gcd(b,r)\)
+** Homework :hw:
+- Read \sect 1.4 The Fundamental Theorem of Arithmetic
+- Exercises 1.4, 1.8, 1.10
+
+* Day 03
+** \sect 1.4 The Fundamental Theorem of Arithmetic
+- Definition 1.17 Irreducible Element
+- Lemma 1.18 \(p\ \text{irreducible}\ \wedge p \nmid b \implies \gcd(p, b) = 1\)
+- Definition 1.19 Prime
+- Theorem 1.21  \(\text{prime} \iff \text{irreducible}\)
+- Theorem 1.22 Fundamental Theorem of Arithmetic
+- Proposition 1.25 \(a = \prod_p p^{\alpha_p}, b = \prod_p p^{\beta_p} \implies \gcd(a,b) = \prod_p p^{\min\{\alpha_p, \beta_p\}}\)
+- Corollary 1.27 \(\forall a, b \in \mathbb{Z} \setminus \{0\}, \gcd(a,b) = 1 \iff\) no common irreducible factor
+** Homework :hw:
+- Read \sect 2.1 Equivalence Relations
+  - Read \sect A.8 Relations; Equivalence Relations and Quotient Sets if necessary
+- Read \sect 2.2 Congruence mod n
+- Exercises 1.17, 1.21, 1.23, 1.25
+
+* Day 04
+** Buffer time to review equivalence relations
+** \sect 2.2 Congruence mod n
+- Definition 2.5 \(\mathbb{Z}/n\mathbb{Z}\)
+- Lemma 2.6 equivalence classes modulo n
+- Theorem 2.7 order of \(\mathbb{Z}/n\mathbb{Z}\)
+** Homework :hw:
+- Read \sect 2.3 Algebra in \(\mathbb{Z}/n\mathbb{Z}\)
+- Read \sect 2.4 Properties of the Operations \(+, \cdot\) on \(\mathbb{Z}/n\mathbb{Z}\)
+- Exercises 2.1, 2.2, 2.3
+
+* Day 05
+** \sect 2.3 Algebra in \(\mathbb{Z}/n\mathbb{Z}\)
+- Lemma 2.9 \(+, \cdot\) are well defined on representatives of equivalence classes
+- Definition 2.10 \(+, \cdot\) on \(\mathbb{Z}/n\mathbb{Z}\)
+** \sect 2.4 Properties of the Operations \(+, \cdot\) on \(\mathbb{Z}/n\mathbb{Z}\)
+- Theorem 2.13 ring axioms for \((\mathbb{Z}/n\mathbb{Z}, +, \cdot)\)
+- Theorem 2.15 \(n\) prime \(\iff \mathbb{Z}/n\mathbb{Z}\) domain \(\iff (\mathbb{Z}/n\mathbb{Z})^\times = (\mathbb{Z}/n\mathbb{Z}) \setminus \{0\}\)
+- Proposition 2.16 \([a] \in (\mathbb{Z}/n\mathbb{Z})^\times \iff \gcd(n,a) = 1\)
+** Homework :hw:
+- Read \sect 3.1 Definition and Examples
+- Exercises 2.4, 2.9, 2.10, 2.11
+
+* Day 06
+** \sect 3.1 Definition and Examples
+- Definition 3.1 Ring Axioms
+  - Students should have read the examples, but leave 10-15 minutes to field questions or work one of the examples.
+
+** Homework :hw:
+- Read \sect 3.2 Basic Properties, \sect 3.3 Special Types of Rings
+- Exercises 3.5, 3.6, 3.7, 3.8
+
+* Day 07
+** \sect 3.2 Basic Properties
+- Proposition 3.14 Uniqueness of identities
+- Proposition 3.15 Uniqueness of additive inverses
+- Proposition 3.17 Addition has left cancellation property
+- Corollary 3.18 0a = a0 = 0
+** \sect 3.3 Special Types of Rings
+- Definition 3.22 Zero divisors
+- Definition 3.23 Integral domain
+- Proposition 3.26 Multiplicative cancellation for non-zero divisors
+- Definition 3.27 Units
+- Proposition 3.28 \((\mathbb{Z}/n\mathbb{Z})^\times = \{[a] \mid \gcd(a,n) = 1\}\)
+- Definition 3.29 Field
+- Proposition 3.31 Field \(\implies\) Domain
+- Proposition 3.33 Finite domain \(\implies\) field
+** Homework :hw:
+- Read \sect 4.1 Cartesian Products
+- Read \sect 4.2 Subrings
+- Exercises 3.12, 3.13, 3.14, 3.17, 3.20
+
+* Day 08
+** \sect 4.1 Cartesian Products
+- Definition 4.1 Cartesian product
+** \sect 4.2 Subrings
+- Definition 4.5 Subring
+- Proposition 4.14 Subring criterion
+** Homework :hw:
+- Read \sect 4.3 Ring Homomorphisms
+- Read \sect 4.4 Isomorphisms of Rings
+- Exercises 4.2, 4.3, 4.4, 4.5
+
+* Day 09
+** \sect 4.3 Ring Homomorphisms
+- Definition 4.15 Ring homomorphism
+- Proposition 4.16 \(f \in \operatorname{Hom}(R,S), f(0) = 0\)
+- Proposition 4.27 Identity and Composition for ring homomorphisms
+** \sect 4.4 Isomorphisms of Rings
+- Definition 4.24 Isomorphism of rings
+- Proposition 4.30 The inverse of an isomorphism is an isomorphism
+- Corollary 4.31 Isomorphism \(\iff\) inverse
+- Definition 4.32 Isomorphic rings
+- Corollary 4.33 Isomorphic is an equivalence relation
+- Proposition 4.36 Isomorphisms, units, and zero divisors
+- Corollary 4.37 \(R \cong S \implies R\) domain/field \(\iff S\) domain/field
+** Homework :hw:
+- Read \sect 5.1 Rings: Canonical Decomposition I
+- Read \sect 5.2 Kernels and Ideal
+- Exercises 4.13, 4.14, 4.19
+
+* Day 10
+** \sect 5.1 Rings: Canonical Decomposition I
+- Proposition 5.1 Image is subring of codomain
+** \sect 5.2 Kernels and Ideal
+- Definition 5.3 Kernel
+- Proposition 5.6 Kernel is an abelian group
+- Proposition 5.7 Kernel is a left and right ideal
+- Definition 5.8 Ideal (Two-Sided)
+- Proposition 5.9 Ideal Criterion
+- Proposition 5.16 Ideal generated by an element
+- Proposition 5.17 Ideal generated by \(a_1, \ldots, a_n \in R\)
+** Homework :hw:
+- Read \sect 5.3 Quotient Rings
+- Exercises 5.4, 5.5, 5.7, 5.9, 5.10, 5.12, 5.13, 5.14, 5.15, 5.16, 5.18
+
+* Day 11
+** \sect 5.3 Quotient Rings
+- Definition 5.19 Congruence modulo I
+- Proposition 5.20 Congruence modulo I is an equivalence relation
+- Definition 5.22 Cosets and Quotient
+- Definition 5.24 Addition and multiplication of cosets
+- Lemma 5.25 \(+, \cdot\) are well-defined
+- Theorem 5.26 The quotient is a ring
+** Homework :hw:
+- Read \sect 5.4 Rings: Canonical Decomposition, II
+- Read \sect 5.5 The First Isomorphism Theorem
+- Exercise 5.20
+
+* Day 12
+** \sect 5.4 Rings: Canonical Decomposition, II
+- Proposition 5.35 Canonical projection homomorphism is surjective
+- Theorem 5.37 \(R \twoheadrightarrow R/\ker f \xrightarrow{\sim} f(R) \hookrightarrow S\)
+** \sect 5.5 The First Isomorphism Theorem
+- Theorem 5.38 \(f : R \twoheadrightarrow S, S \cong R/\ker f\)
+- Proposition 5.39 Universal Property of the Cokernel
+** Homework :hw:
+- Read \sect 5.6 The Chinese Remainder Theorem
+- Read \sect 5.7 The Third Isomorphism Theorem
+- Exercises 5.8, 5.23, 5.25, 5.26
+
+* Day 13
+** \sect 5.6 The Chinese Remainder Theorem
+- Definition 5.43 Sum of ideals
+- Definition 5.44 Product of ideals
+- Proposition 5.48 \(I + J = R \implies R \twoheadrightarrow R/I \times R/J\)
+- Corollary 5.50 \(I + J = R \implies R/(I \cap J) \cong R/I \times R/J\)
+- Lemma 5.51 \(R\) commutative, \(I + J = R \implies I \cap J = IJ\)
+- Theorem 5.52 The Chinese Remainder Theorem
+- Corollary 5.53 \(\forall r \in \mathbb{N}, \forall n_1, \ldots, n_r \in \mathbb{Z}, [\forall i \neq j, (n_i, n_j) = \mathbb{Z}] \implies \mathbb{Z}/(n_1 \cdots n_r)\mathbb{Z} \cong \prod_{i=1}^{r} \mathbb{Z}/n_i\mathbb{Z}\)
+- Proposition 5.56 \(\forall a, b \in \mathbb{N}, (a,b) = \mathbb{Z} \implies \phi(ab) = \phi(a)\phi(b)\)
+** \sect 5.7 The Third Isomorphism Theorem
+- Theorem 5.57 The Third Isomorphism Theorem
+** Homework :hw:
+- Exercises 5.33, 5.34, 5.36
+
+* Day 14
+** Review Chapters 1-5
+
+* Day 15
+** Mid term exam
+** Homework :hw:
+- Read \sect 8.1 Vector Spaces and Ideals, Revisited
+
+* Day 16
+** \sect 8.1 Vector Spaces and Ideals, Revisited
+- Definition 8.1 Module axioms
+- Proposition 8.9 \(\forall m \in M, 0 \cdot m = 0\)
+- Proposition 8.10 Every abelian group is a \(\mathbb{Z}\)-module
+- Definition 8.11 Abelian group
+** Homework :hw:
+- Read \sect 8.2 The Category of R-modules
+- Exercises 8.1, 8.2, 8.3
+
+* Day 17
+** \sect 8.2 The Category of R-modules
+- Definition 8.14 Module homomorphism
+- Proposition 8.19 Identity morphism; Composition; Associativity of Composition
+- Definition 8.20 Isomorphism of modules
+- Definition 8.21 Isomorphic modules
+** Homework :hw:
+- Read \sect 8.3 Submodules, Direct Sums
+- Exercises 8.6, 8.10 (Note: Provide definition of PID), 8.12
+
+* Day 18
+** \sect 8.3 Submodules, Direct Sums
+- Definition 8.22 Submodule
+- Proposition 8.23 Submodule criterion
+- Definition 8.28 Submodule generation
+- Definition 8.29 Finitely generated module; cyclic module
+- Proposition 8.32 Image and preimage (under morphism) of submodules are submodules.
+- Definition 8.33 Direct sum of modules
+** Homework :hw:
+- Read \sect 8.4 Canonical Decomposition and Quotients
+- Exercises 8.16, 8.17, 8.19
+
+* Day 19
+** \sect 8.4 Canonical Decomposition and Quotients
+- Definition 8.36 Kernel of module homomorphism
+- Definition 8.37 Cosets; Coset space
+- Claim 8.38 Addition and scaling on cosets are well-defined (proof is exercise)
+- Lemma 8.39 \(\sim_K\) is compatible with addition and scaling (proof is exercise)
+- Theorem 8.40 Quotient module
+- Proposition 8.41 Canonical projection is a module homomorphism
+- Theorem 8.43 Canonical decomposition
+** Homework :hw:
+- Read \sect 8.5 Isomorphism Theorems
+- Exercises 8.15, 8.23, Prove Claim 8.38
+
+* Day 20
+** \sect 8.5 Isomorphism Theorems
+- Theorem 8.44 First Isomorphism Theorem
+- Theorem 8.47 Third Isomorphism Theorem
+- Theorem 8.48 Second Isomorphism Theorem
+** Materials :noexport:
+- [[file:days/20-isomorphism_theorems/source/worksheet.tex][Worksheet source]]
+- [[file:days/20-isomorphism_theorems/source/activity.pdf][Activity]] / [[file:days/20-isomorphism_theorems/source/activity-solutions.pdf][Solutions]]
+- [[file:days/20-isomorphism_theorems/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 10.1 The Category of Abelian Groups
+- Exercise 8.22
+
+* Day 21
+** \sect 10.1 The Category of Abelian Groups
+- Definition 10.1 Order of an abelian group
+- Proposition 10.3 Homomorphism criterion
+- Proposition 10.4 Subgroup criterion
+- Definition 10.5 Hom(A, B)
+- Proposition 10.6 Correspondence between morphisms \(R \to \operatorname{End}(M)\) and \(R\)-modules
+** Materials :noexport:
+- [[file:days/21-the_category_of_abelian_groups/source/worksheet.tex][Worksheet source]]
+- [[file:days/21-the_category_of_abelian_groups/source/activity.pdf][Activity]] / [[file:days/21-the_category_of_abelian_groups/source/activity-solutions.pdf][Solutions]] (quiz grade; due Monday)
+** Homework :hw:
+- Read \sect 10.2 Cyclic Groups, and Orders of Elements
+- Exercises 10.1, 10.6
+
+* Day 22
+** \sect 10.2 Cyclic Groups, and Orders of Elements
+- Definition 10.8 Cyclic group
+- Proposition 10.9 \(\mathbb{Z}\) is generated by \(\pm 1\); \(\mathbb{Z}/n\mathbb{Z}\) is generated by \([a]_n\) if and only if \(\gcd(a,n) = 1\) if and only if \([a]_n \in (\mathbb{Z}/n\mathbb{Z})^\times\)
+- Proposition 10.10 Subgroup of cyclic is cyclic; image of cyclic under homomorphism is cyclic
+- Definition 10.12 Order of an element
+- Proposition 10.13 \(C_m \times C_n \cong C_{mn}\) if and only if \(\gcd(m,n) = 1\)
+- Proposition 10.16 \(\forall a \in A, N \in \mathbb{Z}, Na = 0 \iff |a| \mid N\)
+- Proposition 10.17 \(C_n = \langle g \rangle, f \colon C_n \to A \implies |f(g)| \mid n\); \(|a| \mid n \implies \exists! f \colon C_n \to A, f(g) = a\)
+** Materials :noexport:
+- [[file:days/22-cyclic_groups_and_orders_of_elements/source/worksheet.tex][Worksheet source]]
+- [[file:days/22-cyclic_groups_and_orders_of_elements/source/activity.pdf][Activity]] / [[file:days/22-cyclic_groups_and_orders_of_elements/source/activity-solutions.pdf][Solutions]]
+- [[file:days/22-cyclic_groups_and_orders_of_elements/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 11.1 Groups and their Category
+- Exercise 10.7
+
+* Day 23
+** \sect 11.1 Groups and their Category
+- Definition 11.1 Group axioms
+- Definition 11.2 Group homomorphism
+- Proposition 11.3 Identity morphism; composition; composition is associative
+- Definition 11.5 Isomorphism of groups; Isomorphic groups
+- Definition 11.6 Subgroup
+- Proposition 11.7 Subgroup Criterion
+- Definition 11.11 Subgroup generation
+- Definition 11.13 Cartesian Product
+** Materials :noexport:
+- [[file:days/23-groups_and_their_category/source/worksheet.tex][Worksheet source]]
+- [[file:days/23-groups_and_their_category/source/activity.pdf][Activity]] / [[file:days/23-groups_and_their_category/source/activity-solutions.pdf][Solutions]]
+- [[file:days/23-groups_and_their_category/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 11.2 Why Groups? Actions of a Group
+- Exercises 11.1, 11.2, 11.3, 11.4, 11.7
+
+* Day 24
+** \sect 11.2 Why Groups? Actions of a Group
+- Definition 11.17 Symmetric group
+- Definition 11.19 Group action
+- Proposition 11.20 Cayley embedding
+- Definition 11.22 Orbit
+- Definition 11.26 Faithful action
+- Lemma 11.28 Left action of G on itself is free
+- Theorem 11.29 Cayley's Theorem
+- Definition 11.31 Conjugacy class
+** Materials :noexport:
+- [[file:days/24-why_groups_actions_of_a_group/source/worksheet.tex][Worksheet source]]
+- [[file:days/24-why_groups_actions_of_a_group/source/activity.pdf][Activity]] / [[file:days/24-why_groups_actions_of_a_group/source/activity-solutions.pdf][Solutions]]
+- [[file:days/24-why_groups_actions_of_a_group/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 11.3 Cyclic, Dihedral, Symmetric, Free Groups
+- Exercise 11.14
+
+* Day 25
+** \sect 11.3 Cyclic, Dihedral, Symmetric, Free Groups
+- Definition 11.32 Dihedral group
+- Proposition 11.35 Generators and relations of the dihedral group
+- Lemma 11.37 The determinant of a permutation matrix is \(\pm 1\)
+- Definition 11.39 Sign of a permutation
+- Definition 11.40 Alternating group
+- Definition 11.41 Cycles
+- Proposition 11.44 Cycle decomposition
+- Lemma 11.45 Transposition trick
+- Lemma 11.46 Sign of an \(r\)-cycle is \((-1)^{r-1}\)
+- Proposition 11.47 Symmetric group is generated by transposition
+** Materials :noexport:
+- [[file:days/25-cyclic_dihedral_symmetric_free_groups/source/worksheet.tex][Worksheet source]]
+- [[file:days/25-cyclic_dihedral_symmetric_free_groups/source/activity.pdf][Activity]] / [[file:days/25-cyclic_dihedral_symmetric_free_groups/source/activity-solutions.pdf][Solutions]]
+- [[file:days/25-cyclic_dihedral_symmetric_free_groups/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 11.4 Canonical Decomposition, Normality, Quotients
+- Exercises 11.28, 11.30, 11.33
+
+* Day 26
+** \sect 11.4 Canonical Decomposition, Normality, Quotients
+- Definition 11.49 Kernel
+- Definition 11.50 Coset space
+- Definition 11.52 Normal subgroup
+- Proposition 11.57 Normality criterion
+- Proposition 11.58 Kernel is normal
+- Theorem 11.64 Quotient by normal subgroup is a group
+- Definition 11.65 Quotient group
+- Theorem 11.67 Canonical Decomposition
+** Materials :noexport:
+- [[file:days/26-canonical_decomposition_normality_and_quotients/source/worksheet.tex][Worksheet source]]
+- [[file:days/26-canonical_decomposition_normality_and_quotients/source/activity.pdf][Activity]] / [[file:days/26-canonical_decomposition_normality_and_quotients/source/activity-solutions.pdf][Solutions]]
+- [[file:days/26-canonical_decomposition_normality_and_quotients/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Read \sect 11.5 Isomorphism Theorems
+- Exercises 11.34, 11.36, 11.39
+
+* Day 27
+** \sect 11.5 Isomorphism Theorems
+- Theorem 11.68 First isomorphism theorem
+- Proposition 11.73 Product with normal subgroup is subgroup; intersection with normal is normal
+- Theorem 11.74 Second Isomorphism Theorem
+- Theorem 11.75 Third Isomorphism Theorem
+** Materials :noexport:
+- [[file:days/27-isomorphism_theorems/source/worksheet.tex][Worksheet source]]
+- [[file:days/27-isomorphism_theorems/source/activity.pdf][Activity]] / [[file:days/27-isomorphism_theorems/source/activity-solutions.pdf][Solutions]]
+- [[file:days/27-isomorphism_theorems/source/instructor-notes.pdf][Instructor notes]]
+** Homework :hw:
+- Exercise 11.40
+
+* Day 28
+** TBA
+
+* Day 29
+** Review
+- Study practice: starting mixed homework problems (Exercises 8.12, 3.20, 11.34, 1.10, 5.15, 4.3, 4.13, 10.7) without the chapter as a hint; then open questions
+** Materials :noexport:
+- [[file:days/29-final_review/source/worksheet.tex][Worksheet source]]
+- [[file:days/29-final_review/source/activity.pdf][Activity]] / [[file:days/29-final_review/source/activity-solutions.pdf][Solutions]]
+- [[file:days/29-final_review/source/instructor-notes.pdf][Instructor notes]]
+
+* Day 30
+** Final Exam
